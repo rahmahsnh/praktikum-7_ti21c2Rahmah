@@ -1,7 +1,8 @@
 # praktikum-7_ti21c2Rahmah
 RELASI KELAS adalah Class tersebut saling berelasi untuk mendefinisikan bagaimana objek -objek akan berinteraksi satu dengan lainnya. Program atau Source Code :
 
-Komputer.java image
+Komputer.java ![image](https://user-images.githubusercontent.com/116366904/210826534-6b440287-4f49-4d3a-9cb8-695d8bc31beb.png)
+
 Laptop.java image Source Code ini tidak bisa di Run & Compile karena ini membutuhkan kelas antara lainnya, dependensi, association, agregation, composition. Di gabungkan dalam file2 tersebut lalu di run & compile.
 A. Dependensi
 
